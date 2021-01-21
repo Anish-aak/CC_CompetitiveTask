@@ -57,7 +57,7 @@
 	    			temp = far;
 	    			//cout<<ans<<" ";
 	    		}
-	    		if(temp<1)
+	    		if(temp<l)
 	    			ans=-1;
 	    		cout<<ans<<endl;
 	    	}
